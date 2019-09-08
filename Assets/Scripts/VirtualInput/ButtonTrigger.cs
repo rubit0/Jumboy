@@ -7,7 +7,7 @@ namespace VirtualInput
     public class ButtonTrigger : MonoBehaviour
     {
         [SerializeField]
-        private AvatarHandsInputHub handsInputHub;
+        private InputHub handsInputHub;
         [SerializeField]
         private string tagFilter = "Hands";
         [SerializeField]

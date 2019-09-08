@@ -71,7 +71,7 @@ namespace UnityGB
 					break;
 				case Button.Down:
 					keyCode = 'd';
-					break;
+                    break;
 				case Button.Left:
 					keyCode = 'l';
 					break;
